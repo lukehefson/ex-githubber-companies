@@ -28,11 +28,12 @@ All entries are alphabetized – including by first name when there are multiple
 
 ## Coming soon
 
-| Company                            | Founding ex-GitHubber(s)                                                                                                                    |
-|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| [WorkOn](https://workon.co)        | [Zach Holman](https://github.com/holman)                                                                                                    |
-| [Yetto](https://yetto.app)         | [Brian Levine](https://github.com/balevine), [Garen Torikian](https://github.com/gjtorikian), [Nick Cannariato](https://github.com/birdcar) |
-| [Zipper](https://www.zipper.works) | [Sachin Ranchod](https://github.com/sachinr)                                                                                                |
+| Company                                    | Founding ex-GitHubber(s)                                                                                                                    |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| [GroundControl](https://groundcontrol.sh/) | [Alberto Gimeno](https://github.com/gimenete)                                                                                               |
+| [WorkOn](https://workon.co)                | [Zach Holman](https://github.com/holman)                                                                                                    |
+| [Yetto](https://yetto.app)                 | [Brian Levine](https://github.com/balevine), [Garen Torikian](https://github.com/gjtorikian), [Nick Cannariato](https://github.com/birdcar) |
+| [Zipper](https://www.zipper.works)         | [Sachin Ranchod](https://github.com/sachinr)                                                                                                |
 
 ## No longer involved or moved on
 
