@@ -1,3 +1,4 @@
+
 # Companies founded by ex-GitHubbers
 
 All entries are alphabetized – including by first name when there are multiple founders.
@@ -12,7 +13,8 @@ All entries are alphabetized – including by first name when there are multiple
 | [Campsite](https://www.campsite.design)           | [Brian Lovin](https://github.com/brianlovin), [Ryan Nystrom](https://github.com/rnystrom)                                                                                                  |
 | [Cased](https://cased.com)                        | [Ben Bleikamp](https://github.com/bleikamp), [Bryan Byrne](https://github.com/irishbryan), [Garrett Bjerkhoel](https://github.com/dewski), [Ted Nyman](https://github.com/tnm)             |
 | [Chatterbug](https://chatterbug.com)              | [Liz Clinkenbeard](https://github.com/lizclink), [Russell Belfer](https://github.com/arrbee), [Tom Preston-Werner](https://github.com/mojombo), [Scott Chacon](https://github.com/schacon) |
-| [Crux](https://cruxapp.ca)                        | [Nathaniel Woodthorpe](https://github.com/d12)                                                                                                                                                   |
+| [Crux](https://cruxapp.ca)                        | [Nathaniel Woodthorpe](https://github.com/d12) |    
+| [ércule](https://ercule.co), [Ottimo](https://ottimo.cool)                        | [Justin Dunham](https://github.com/riboflavin), [Ashley McClelland](https://github.com/ashumz)
 | [Fimio](https://fimio.xyz)                        | [Omoju Miller](https://github.com/omoju)                                                                                                                                                   |
 | [Null](https://null.com)                          | [Chris Wanstrath](https://github.com/defunkt)                                                                                                                                              |
 | [Open Sauced](https://opensauced.pizza)           | [Brian Douglas](https://github.com/bdougie)                                                                                                                                                |
