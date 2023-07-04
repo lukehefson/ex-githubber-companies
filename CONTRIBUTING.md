@@ -1,1 +1,1 @@
-See a company missing? Submit a pull request!
+See a company missing? Submit a pull request! And [then email me](mailto:lukehefson@gmail.com) – as I don't really watch my GitHub notifications at the moment (I know, I know, as an ex-GitHubber myself I am embarrassed by this)
