@@ -45,4 +45,4 @@ All entries are alphabetized – including by first name when there are multiple
 | Company                          | Founding ex-GitHubber(s)                     | Description                                                                                        |
 |----------------------------------|----------------------------------------------|----------------------------------------------------------------------------------------------------|
 | [Operable](http://operable.io)   | [Mark Imbriaco](https://github.com/imbriaco) | Bringing the power of the command line to chat                                                     |
-| [Zeczec](https://www.zeczec.com) | [Mu-An Chiou](https://github.com/muan)       | Wings is a crowd funding platform. We welcome people who like to dream and enjoy beautiful things. |
+| [嘖嘖 Zeczec](https://www.zeczec.com) | [Mu-An Chiou](https://github.com/muan)       | Taiwan's first and largest crowdfunding platform. Established 2011. |
