@@ -42,7 +42,6 @@ All entries are alphabetized – including by first name when there are multiple
 | [GroundControl](https://groundcontrol.sh/) | [Alberto Gimeno](https://github.com/gimenete)                                                                                               | Feature flags for the rest of us     |
 | [WorkOn](https://workon.co)                | [Zach Holman](https://github.com/holman)                                                                                                    | Working on it.                       |
 | [Yetto](https://yetto.app)                 | [Brian Levine](https://github.com/balevine), [Garen Torikian](https://github.com/gjtorikian), [Nick Cannariato](https://github.com/birdcar) | Your help desk should help you, too. |
-| [Zipper](https://www.zipper.works)         | [Sachin Ranchod](https://github.com/sachinr)                                                                                                |                                      |
 
 ## No longer involved or moved on
 
@@ -51,3 +50,4 @@ All entries are alphabetized – including by first name when there are multiple
 | [Abbot](https://ab.bot)               | [Paul Nakata](https://github.com/pmn), [Phil Haack](https://github.com/haacked) | Abbot is a programmable smart assistant who works alongside you in your team chat and helps you get things done. |
 | [Operable](http://operable.io)        | [Mark Imbriaco](https://github.com/imbriaco)                                    | Bringing the power of the command line to chat                                                                   |
 | [嘖嘖 Zeczec](https://www.zeczec.com) | [Mu-An Chiou](https://github.com/muan)                                          | Taiwan's first and largest crowdfunding platform. Established 2011.                                              |
+| [Zipper](https://www.zipper.works)    | [Sachin Ranchod](https://github.com/sachinr)                                    |                                                                                                                  |
