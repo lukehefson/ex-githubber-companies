@@ -30,6 +30,7 @@ All entries are alphabetized – including by first name when there are multiple
 | [Supernormal](https://supernormal.com)            | [Fabian Perez](https://github.com/fabianperez)                                                                                                                                             | Supernormal helps you create amazing meeting notes without lifting a finger.                                     |
 | [Vaya Consulting](https://www.vayaconsulting.com) | [Nicole Sanchez](https://github.com/nmsanchez)                                                                                                                                             | People Management for a Changing Workforce.                                                                      |
 | [Workbrew](https://workbrew.com)                  | [John Britton](https://github.com/johndbritton), [Mike McQuaid](https://www.github.com/mikemcquaid), [Vanessa Gennarelli](https://www.github.com/mozzadrella)                              | The missing features and support for companies using Homebrew.                                                   |
+| [Yetto](https://yetto.app)                 | [Brian Levine](https://github.com/balevine), [Garen Torikian](https://github.com/gjtorikian), [Nick Cannariato](https://github.com/birdcar) | Your help desk should help you, too. |
 | [Zed](https://zed.dev)                            | [Nathan Sobo](https://github.com/nathansobo)                                                                                                                                               | Code at the speed of thought.                                                                                    |
 
 ## Coming soon
@@ -38,7 +39,6 @@ All entries are alphabetized – including by first name when there are multiple
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | [GroundControl](https://groundcontrol.sh/) | [Alberto Gimeno](https://github.com/gimenete)                                                                                               | Feature flags for the rest of us     |
 | [WorkOn](https://workon.co)                | [Zach Holman](https://github.com/holman)                                                                                                    | Working on it.                       |
-| [Yetto](https://yetto.app)                 | [Brian Levine](https://github.com/balevine), [Garen Torikian](https://github.com/gjtorikian), [Nick Cannariato](https://github.com/birdcar) | Your help desk should help you, too. |
 
 ## No longer involved or moved on
 
